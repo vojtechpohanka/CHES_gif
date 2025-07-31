@@ -1,5 +1,5 @@
 # CHES_gif
-Gif file showing development of party positions in the Czech Republic and Germany (Chapel Hill Expert Survey):
+Gif file showing development of party positions in the Czech Republic and Germany 2002 to 2024 (Chapel Hill Expert Survey):
 
 ![cz_trend.gif](https://github.com/vojtechpohanka/CHES_gif/raw/main/cz_trend.gif)
 
