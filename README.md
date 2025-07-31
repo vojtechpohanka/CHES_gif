@@ -1,7 +1,7 @@
 # CHES_gif
 Gif file showing development of party positions in the Czech Republic and Germany (Chapel Hill Expert Survey):
 
-1[cz_trend] (https://github.com/vojtechpohanka/CHES_gif/blob/main/cz_trend.gif)
+![cz_trend.gif](https://github.com/vojtechpohanka/CHES_gif/raw/main/cz_trend.gif)
 
 Sources: 
 Jolly, Seth, Ryan Bakker, Liesbet Hooghe, et al. 2022. “Chapel Hill Expert Survey Trend File, 1999–2019.” Electoral Studies 75 (February): 102420.
